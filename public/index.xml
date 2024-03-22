@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ShadowSwiss Economics</title>
-    <link>http://localhost:4968/</link>
-      <atom:link href="http://localhost:4968/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/</link>
+      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <description>ShadowSwiss Economics</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4968/media/icon_huc57125e40b50a7b55b541ff0c8e05236_68374_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_huc57125e40b50a7b55b541ff0c8e05236_68374_512x512_fill_lanczos_center_3.png</url>
       <title>ShadowSwiss Economics</title>
-      <link>http://localhost:4968/</link>
+      <link>https://example.com/</link>
     </image>
     
     <item>
       <title>The Profit-Investment nexus in Switzerland</title>
-      <link>http://localhost:4968/post/financialization/untitledrmd/</link>
+      <link>https://example.com/post/financialization/untitledrmd/</link>
       <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4968/post/financialization/untitledrmd/</guid>
+      <guid>https://example.com/post/financialization/untitledrmd/</guid>
       <description>
 &lt;script src=&#34;https://polyfill.io/v3/polyfill.min.js?features=es6&#34;&gt;&lt;/script&gt;&lt;br /&gt;
 &lt;script id=&#34;MathJax-script&#34; async src=&#34;https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js&#34;&gt;&lt;/script&gt;
@@ -86,21 +86,19 @@
     </item>
     
     <item>
-      <title>Privacy Policy</title>
-      <link>http://localhost:4968/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>http://localhost:4968/privacy/</guid>
-      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
-</description>
+      <title></title>
+      <link>https://example.com/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/privacy/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Terms</title>
-      <link>http://localhost:4968/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>http://localhost:4968/terms/</guid>
-      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
-</description>
+      <title></title>
+      <link>https://example.com/terms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/terms/</guid>
+      <description></description>
     </item>
     
   </channel>
