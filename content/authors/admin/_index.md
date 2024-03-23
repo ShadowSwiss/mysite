@@ -45,7 +45,7 @@ social:
   link: https://www.linkedin.com/company/shadowswiss-economics
 - icon: github
   icon_pack: fab
-  link: https://github.com/ShadowSwiss/ShadowSwissEconomics
+  link: https://github.com/ShadowSwiss
 status:
   icon: ☕️
 superuser: true

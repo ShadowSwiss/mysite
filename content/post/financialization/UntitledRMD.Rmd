@@ -1,7 +1,7 @@
 ---
 title: "The Profit-Investment nexus in Switzerland"
 subtitle: "A macroeconomic evidence of the Kalecki's profit equation in the era of financialization"
-date: "2024-03-22"
+date: "2024-03-23"
 tags: ["Financialization", "Macroeconomics", "Profits", "Investment", "Switzerland", "Shareholder Value", "Profits without accumulation", "Investment-profits puzzle", "Kalecki" ]
 header-includes:
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
@@ -96,7 +96,7 @@ Before examining the profit-investment nexus within the Swiss context, it is cru
 
 **Figure 1** below depicts the profit-investment nexus in Switzerland amid the context of financialization. It illustrates the consistent increase in downsize and distribute by Swiss non-financial corporations compared to the decline in their profits between 1995 and 2022. With the exception of the late 1990s, dividends paid to shareholders have outpaced productive investment, while profit share witnessed a significant decline, notably between 2005 and 2020. Contrary to prevalant notions concerning its economy, Switzerland has undergone a dramatic transformation. Swiss non-financial corporations have distributed more than they have invested, leading to a decrease in their capacity to generate profits. By allocating a greater share of their profits to shareholders at the expense of investment, companies are endangering their long-term growth, aligning with Kalecki's profit framework.
 
-![Figure 1](images/Fig10.png)
+![Figure 1](/post/financialization/UntitledRMD_files/Fig10.png)
 
 ## The contradiction of profits
 
@@ -104,7 +104,7 @@ To bolster our argument, **Figure 2** illustrates the trend of profits for Swiss
 
 [^17]: Auvray and al (2021).
 
-![Figure 2](images/Fig2.png)
+![Figure 2](/post/financialization/UntitledRMD_files/Fig2.png)
 
 ## Concluding remarks
 
