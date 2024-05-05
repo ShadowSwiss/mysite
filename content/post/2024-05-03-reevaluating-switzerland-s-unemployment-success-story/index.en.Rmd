@@ -27,6 +27,8 @@ editor_options:
 knitr::knit_engines$set(plotly = plotly::renderPlotly)
 
 
+
+
 ```
 
 ## Introduction
@@ -85,49 +87,7 @@ Given the aforementioned complexities and the intricate nature of paid employmen
 
 Consequently, alternative indicators have emerged. While the number of measures varies by country, Switzerland primarily employs three main metrics[^13]. **Figure 1** below illustrates the disparity between these metrics, showcasing the variation in unemployment rates between the second quarter of 2022 and the fourth quarter of 2023. Throughout this period, the ILO unemployment rate consistently exceeds that reported by the State Secretariat for Economic Affairs (SECO). Notably, the jobless rate, which includes underemployment, stands significantly higher than both. The jobless rate is on average 102% higher than the indicator calculated according ILO's definition and 338% higher than that of the SECO.
 
-```{r, echo=FALSE, message=FALSE}
-library(readxl)
-data1 <- read_excel("~/Documents/Data/Chomage/Indicateur du chomage.xlsx", 
-    sheet = "Feuil1")
-
-library(tidyverse)
-library(plotly)
-
-
-data1<-data1 %>% 
-  slice(1:3) %>% 
-  select(-c(9,10,11))
-
-data1 <- data1 %>%
-  mutate(across(-Indicators, as.numeric))
-
-data1_long <- data1 %>%
-  pivot_longer(cols = -Indicators, names_to = "Date", values_to = "Values") %>%
-  mutate(Date = factor(Date, levels = unique(Date), ordered = TRUE))  
-
-
-
-plot <- plot_ly(data1_long, x = ~Date, y = ~Values, color = ~Indicators,
-                colors = c("#417d95", "#c1dee2", "#89b9c5"),  
-                type = 'scatter', mode = 'lines') %>%
-  layout(title = "Figure 1: Unemployement rate by SECO, ILO and Jobless rate in percentage of the labor force (2022-Q2 - 2023-Q4)",
-         font = list(size = 8),
-         yaxis = list(title = "Labor force's percentage"),
-         xaxis = list(title = "Quarter"))
-
-plot$x$layout$legend <- list(
-  x = 0,
-  y = -0.2,
-  orientation = "h",
-  bgcolor = "rgba(255, 255, 255, 0)",
-  font = list(size = 10),
-  title = list(text = "Source: FSO, SECO", side = "top", font = list(color = "grey"))
-)
-
-plot
-
-```
-
+![](images/Plota.png)
 
 [^13]: The employment rate is also increasingly used as an alternative measure to the unemployment rate. In this article, however, we consider that it is not really an unemployment rate as its name suggests.
 
@@ -153,39 +113,7 @@ where
 
 Despite the limits to the comparability of data due to the weaknesses of harmonization, **Figure 2** provides a major lesson: the approximate unemployment rate, captured by the jobless rate, will underperform Austria and Germany from 2015 to 2023. With the exception of the first two quarters of 2015, the Swiss unemployment rate is even higher than for the European Union as a whole. Switzerland only performs better than France, but this is not even true for the whole period, since France performs better in the last quarter of 2018, the third quarter of 2019, and all quarters of 2020 and 2021. As a result, Switzerland does not appear to be performing any better than the rest of Europe. In fact, compared with the European Union, Austria and Germany, it appears to be underperforming over the 2015-2023 period.
 
-```{r, echo=FALSE, message=FALSE}
-library(readxl)
-data2 <- read_excel("~/Documents/Data/Chomage/Indicateur du chomage.xlsx", 
-    sheet = "Feuil3")
-
-data2 <- data2 %>%
-  mutate(across(-Country, as.numeric))
-
-data2_long <- data2 %>%
-  pivot_longer(cols = -Country, names_to = "Date", values_to = "Values") %>%
-  mutate(Date = factor(Date, levels = unique(Date), ordered = TRUE))  
-
-plot2 <- plot_ly(data2_long, x = ~Date, y = ~Values, color = ~Country,  
-                type = 'scatter', mode = 'lines', colors = c("#C6DBEF", "#FF0000", "#AEC7E8", "#9ECAE1", "#6BAED6", "#1F77B4")) %>%
-  layout(title = "Figure 2: Jobless rate in the European Union, Germany, France, Austria and Switzerland  (2015-Q1 - 2023-Q4)",
-         font = list(size = 8),
-         yaxis = list(title = "Total population's percentage (15 to 74 years old)"),
-         xaxis = list(title = "Quarter"))
-
-plot2$x$layout$legend <- list(
-  x = 0,
-  y = -0.2,
-  orientation = "h",
-  bgcolor = "rgba(255, 255, 255, 0)",
-  font = list(size = 10),
-  title = list(text = "Source: Eurostat", side = "top", font = list(color = "grey"))
-)
-
-
-plot2
-
-```
-
+![](images/Plotb.png)
 
 ## The politics behind performance or why a very 'low'' unemployment is not very likely
 
