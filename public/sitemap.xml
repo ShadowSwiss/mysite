@@ -2,74 +2,94 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:4704/tag/financialization/</loc>
+    <loc>http://localhost:4321/tag/kalecki/</loc>
+    <lastmod>2024-05-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/tag/macroeconomics/</loc>
+    <lastmod>2024-05-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/tag/measurement/</loc>
+    <lastmod>2024-05-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/tag/political-economy/</loc>
+    <lastmod>2024-05-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/post/</loc>
+    <lastmod>2024-05-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/post/2024-05-03-reevaluating-switzerland-s-unemployment-success-story/</loc>
+    <lastmod>2024-05-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/tag/statistics/</loc>
+    <lastmod>2024-05-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/tag/switzerland/</loc>
+    <lastmod>2024-05-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/tags/</loc>
+    <lastmod>2024-05-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/tag/unemployement/</loc>
+    <lastmod>2024-05-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/tag/financialization/</loc>
     <lastmod>2024-03-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4704/tag/investment/</loc>
+    <loc>http://localhost:4321/tag/investment/</loc>
     <lastmod>2024-03-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4704/tag/investment-profits-puzzle/</loc>
+    <loc>http://localhost:4321/tag/investment-profits-puzzle/</loc>
     <lastmod>2024-03-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4704/tag/kalecki/</loc>
+    <loc>http://localhost:4321/tag/profits/</loc>
     <lastmod>2024-03-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4704/tag/macroeconomics/</loc>
+    <loc>http://localhost:4321/tag/profits-without-accumulation/</loc>
     <lastmod>2024-03-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4704/post/</loc>
+    <loc>http://localhost:4321/tag/shareholder-value/</loc>
     <lastmod>2024-03-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4704/tag/profits/</loc>
+    <loc>http://localhost:4321/post/financialization/untitledrmd/</loc>
     <lastmod>2024-03-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4704/tag/profits-without-accumulation/</loc>
-    <lastmod>2024-03-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4704/tag/shareholder-value/</loc>
-    <lastmod>2024-03-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4704/tag/switzerland/</loc>
-    <lastmod>2024-03-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4704/tags/</loc>
-    <lastmod>2024-03-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4704/post/financialization/untitledrmd/</loc>
-    <lastmod>2024-03-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4704/</loc>
+    <loc>http://localhost:4321/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4704/privacy/</loc>
+    <loc>http://localhost:4321/privacy/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4704/terms/</loc>
+    <loc>http://localhost:4321/terms/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4704/categories/</loc>
+    <loc>http://localhost:4321/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4704/publication_types/</loc>
+    <loc>http://localhost:4321/publication_types/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4704/publication/</loc>
+    <loc>http://localhost:4321/publication/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4704/event/</loc>
+    <loc>http://localhost:4321/event/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
