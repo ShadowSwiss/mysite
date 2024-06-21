@@ -81,9 +81,9 @@ Given the aforementioned complexities and the intricate nature of paid employmen
 
 Consequently, alternative indicators have emerged. While the number of measures varies by country, Switzerland primarily employs three main metrics[^13]. **Figure 1** below illustrates the disparity between these metrics, showcasing the variation in unemployment rates between the second quarter of 2022 and the fourth quarter of 2023. Throughout this period, the ILO unemployment rate consistently exceeds that reported by the State Secretariat for Economic Affairs (SECO). Notably, the jobless rate, which includes underemployment, stands significantly higher than both. The jobless rate is on average 102% higher than the indicator calculated according ILO's definition and 338% higher than that of the SECO.
 
-![](images/Plota.png)
-
 [^13]: The employment rate is also increasingly used as an alternative measure to the unemployment rate. In this article, however, we consider that it is not really an unemployment rate as its name suggests.
+
+![](images/Plota.png)
 
 The discrepancies stem chiefly from variations in definitions and measurement methodologies employed by these indicators. SECO's metric, a widely recognized measure used for economic policymaking, relies on the number of individuals registered as unemployed with employment offices at month-end. Despite its monthly publication advantage, this metric suffers from a notable weakness: individuals without a compelling reason to register, such as those who have exhausted their unemployment benefits, likely abstain from visiting employment offices, thereby remaining uncounted. This registration-based measurement, prevalent internationally, remains susceptible to legal modifications. As noted by Blanchard, « in countries with less generous benefit systems, fewer unemployed individuals are likely to register, resulting in lower measured unemployment rates »[^14].
 
