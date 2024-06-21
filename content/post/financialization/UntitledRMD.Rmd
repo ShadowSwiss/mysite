@@ -2,6 +2,7 @@
 title: "The Profit-Investment nexus in Switzerland"
 subtitle: "A macroeconomic evidence of the Kalecki's profit equation in the era of financialization"
 date: "2024-03-23"
+image: ![](/post/financialization/UntitledRMD_files/Rplot01.png) 
 tags: ["Financialization", "Macroeconomics", "Profits", "Investment", "Switzerland", "Shareholder Value", "Profits without accumulation", "Investment-profits puzzle", "Kalecki" ]
 header-includes:
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
