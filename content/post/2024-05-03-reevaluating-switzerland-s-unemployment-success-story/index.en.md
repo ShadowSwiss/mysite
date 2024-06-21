@@ -109,7 +109,7 @@ Despite the limits to the comparability of data due to the weaknesses of harmoni
 
 ![](images/Plotb.png)
 
-## The politics behind performance or why a very 'low'' unemployment is not very likely
+## The politics behind performance or why a very ''low'' unemployment is not very likely
 
 Having demonstrated that the unemployment rate may not necessarily denote success depending on the indicator employed, it's pertinent to assert that any extreme moderate figure appears not very plausible. In a simplified model structured around the capital-labor conflict, achieving full employment becomes inherently challenging. According to a Kaleckian model, unemployment serves as a disciplinary tool for workers, introducing job insecurity as a means of exerting control and tilting the balance of power[^15]. Without unemployment, workers would possess greater leverage to demand wage increases and switch jobs at their discretion. In an economy prioritizing the interests of capital, full employment emerges as counterproductive. This begs the question: does Switzerland operate as an economy organized around labor ?
 
