@@ -93,7 +93,10 @@ Another widely used measure is GDP per capita, which shows a country's GDP divid
 
 $$
 Gr_TP=(GDP_TP/GDP_tP)-1 *100  \quad \text{(2)}
-$$ where - <font color="black">$Gr_TP$</font>: Growth rate at constant 2011 international PPP dollars for year \$T\$. - <font color="black">$GDP_TP$</font>: GDP at constant 2011 international PPP dollars for year \$T\$. - <font color="black">$GDP_tp$</font>: GDP at constant 2011 international PPP dollars for previous year \$t\$.
+$$ where 
+- <font color="black">$Gr_TP$</font>: Growth rate at constant 2011 international PPP dollars for year \$T\$. 
+- <font color="black">$GDP_TP$</font>: GDP at constant 2011 international PPP dollars for year \$T\$. 
+- <font color="black">$GDP_tp$</font>: GDP at constant 2011 international PPP dollars for previous year \$t\$.
 
 $$
 Cr_ TP=(C_TP/C_tP)-1 *100  \quad \text{(3)}
