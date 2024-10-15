@@ -13,6 +13,136 @@
     </image>
     
     <item>
+      <title>How public finances and corporate power have trapped Swiss households in debt?</title>
+      <link>http://localhost:4321/post/2024-10-10-household/</link>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/post/2024-10-10-household/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;While in Switzerland, public debt draws significant attention, there is one type of debt that seems to escape scrutiny: household debt. According to researcher Solène Morvant-Roux, «there is sometimes a sense of indifference towards this issue»&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. This lack of concern is particularly troubling given the central role debt plays in Swiss households. In today&amp;rsquo;s era of financialization&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;, household indebtedness and investment have become routine financial practices&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;. This is evident in &lt;strong&gt;Figure 1&lt;/strong&gt; below, which highlights the extent of Swiss household financialization, measured by debt as a percentage of GDP, in comparison to the United States, Germany, France, Austria, and the United Kingdom from 1999 to 2022. Swiss households are significantly more indebted than their international counterparts, with debt levels exceeding 100% of the country&amp;rsquo;s GDP.&lt;/p&gt;
+&lt;iframe src=&#34;http://localhost:4321/HTML/Fig1.html&#34; width=&#34;100%&#34; height=&#34;500&#34; frameborder=&#34;0&#34;&gt;
+&lt;/iframe&gt;
+&lt;p&gt;Despite this Swiss anomaly, it has attracted surprisingly little political or analytical attention. This oversight is particularly striking given that such high levels of indebtedness contradict the prevailing notion of Switzerland as a land of wealth and prosperity. In fact, household debt is a key factor driving inequality in the country&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;This article aims to explore the underlying correlations that explain the financialization of Swiss households. To do so, it undertakes an econometric analysis, while also considering the political context and historical background behind the variables examined.&lt;/p&gt;
+&lt;h2 id=&#34;why-household-indebtedness-is-problematic-and-how-could-we-explain-it&#34;&gt;Why household indebtedness is problematic and how could we explain it&lt;/h2&gt;
+&lt;p&gt;In mainstream economic theory, household debt was long perceived as beneficial for the economy&lt;sup id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;. However, it is increasingly recognized that medium and long-term indebtedness is particularly problematic. Since the 2008 crisis, which saw widespread mortgage defaults trigger one of the most severe economic crises in the history of capitalism, no economist views household debt as risk-free. A recent IMF report even warns of potential dangers: «Growth is slower than it would have been otherwise, and the odds of a financial crisis increase»&lt;sup id=&#34;fnref:6&#34;&gt;&lt;a href=&#34;#fn:6&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;6&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;More specifically, the report notes that «highly indebted households may need to cut back on spending to repay their loans. That&amp;rsquo;s a drag on growth. And as the 2008 crisis demonstrated, a sudden economic shock, such as a decline in home prices, can trigger a spiral of credit defaults that shakes the foundations of the financial system.&lt;sup id=&#34;fnref:7&#34;&gt;&lt;a href=&#34;#fn:7&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;7&lt;/a&gt;&lt;/sup&gt;»&lt;/p&gt;
+&lt;p&gt;Aware of the risks induced by households debt, the literature has devoted considerable attention to its causes. According to a selection of non-exhaustive articles&lt;sup id=&#34;fnref:8&#34;&gt;&lt;a href=&#34;#fn:8&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;8&lt;/a&gt;&lt;/sup&gt;, household debt can be explained by real estate variables (house prices; mortgage credit interest rates), labor variables (unemployment; real wages; income inequality; working age population), public finances (public expenditures; public deficit) and financial asset prices.&lt;/p&gt;
+&lt;h2 id=&#34;econometric-analysis&#34;&gt;Econometric analysis&lt;/h2&gt;
+&lt;p&gt;To create our model for the period 1999-2022, we excluded variables linked to property ownership, since 61% of Swiss households are tenants&lt;sup id=&#34;fnref:9&#34;&gt;&lt;a href=&#34;#fn:9&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;9&lt;/a&gt;&lt;/sup&gt;; and financial asset prices, which decrease the explanation of our model. In order to avoid multicollinearity, we select only one labor independent variable, real wages, which has the advantage to take into account inflation in the model. We then added public spending and public debt as a proportion of GDP as independent variables. The model presented in equation (1) explains 85% of the variance in households debt and performed satisfactorily in multicollinearity tests.&lt;/p&gt;
+&lt;p&gt;$$
+Hd=β0+β1(Rw)+β2(Pe)+β3(Pd)+ϵ  \quad \text{(1)}
+$$ where&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;font color=&#34;black&#34;&gt;$Hd$&lt;/font&gt;: Households debt as % of GDP (Source: IMF)&lt;/li&gt;
+&lt;li&gt;&lt;font color=&#34;black&#34;&gt;$β0$&lt;/font&gt;: Intercept (constant term)&lt;/li&gt;
+&lt;li&gt;&lt;font color=&#34;black&#34;&gt;$β1(Rw)$&lt;/font&gt;: Coefficient for real wages (Source: FSO)&lt;/li&gt;
+&lt;li&gt;&lt;font color=&#34;black&#34;&gt;$β2(Pe)$&lt;/font&gt;: Coefficient for public expenditures (central government, as % of GDP, Source: FFA)&lt;/li&gt;
+&lt;li&gt;&lt;font color=&#34;black&#34;&gt;$β3(Pd))$&lt;/font&gt;: Coefficient for public debt (central government, as % of GDP, Source: IMF)&lt;/li&gt;
+&lt;li&gt;&lt;font color=&#34;black&#34;&gt;$ϵ$&lt;/font&gt;: Error term&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Table 1&lt;/strong&gt; below presents the results of our econometric model, showing that each independent variable has statistically significant coefficients. This indicates that all the variables are meaningfully correlated with households debt as a proportion of GDP. To visually represent these findings, &lt;strong&gt;Figure 2&lt;/strong&gt; illustrates the correlation diagrams for each independent variable, offering the following key insights:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Increasing the public debt reduces households debt. This suggests that public debt is not inherently harmful and, in the Swiss case, may even be beneficial.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Rising real wages (i.e., purchasing power) reduces households debt. This implies that improving workers&amp;rsquo; purchasing power could lower households debt, indicating that debt is often a response to social needs.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Higher public expenditures increase households debt. This could mean that increased public spending does not always financially support households, and/or that additional spending is financed through higher revenues extracted directly from households, which can have counterproductive effects.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe src=&#34;http://localhost:4321/HTML/table.html&#34; width=&#34;100%&#34; height=&#34;400&#34; frameborder=&#34;0&#34;&gt;
+&lt;/iframe&gt;
+&lt;iframe src=&#34;http://localhost:4321/HTML/Fig2.html&#34; width=&#34;100%&#34; height=&#34;500&#34; frameborder=&#34;0&#34;&gt;
+&lt;/iframe&gt;
+&lt;p&gt;While the results for real wages and public debt may seem intuitive, the finding on public spending is more surprising. It is therefore important to examine more closely the links between public expenditures and household debt in Switzerland.&lt;/p&gt;
+&lt;h2 id=&#34;examining-the-correlation-between-public-expenditures-and-household-debt&#34;&gt;Examining the correlation between public expenditures and household debt&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Figure 3&lt;/strong&gt; provides an overview of the socio-political sources of Swiss central government revenue as a proportion of GDP from 1990 to 2022. It clearly shows that, like many other countries entering the neoliberal era, Switzerland «shifted a portion of the tax burden from capital owners to the majority of wage earners»&lt;sup id=&#34;fnref:10&#34;&gt;&lt;a href=&#34;#fn:10&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;10&lt;/a&gt;&lt;/sup&gt;. Indeed, in 1990, the shares of revenue attributed to households and capital&lt;sup id=&#34;fnref:11&#34;&gt;&lt;a href=&#34;#fn:11&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;11&lt;/a&gt;&lt;/sup&gt; were roughly equivalent as a proportion of GDP. However, from 1994 onwards, following the end of turnover taxation, capital&amp;rsquo;s contribution to the Confederation’s revenues steadily declined, disproportionately affecting households. This suggests that increased public expenditures alone does not alleviate household financial strain if a large portion of that spending is financed by households themselves.&lt;/p&gt;
+&lt;iframe src=&#34;http://localhost:4321/HTML/Fig3.html&#34; width=&#34;100%&#34; height=&#34;500&#34; frameborder=&#34;0&#34;&gt;
+&lt;/iframe&gt;
+&lt;p&gt;Moreover, in Switzerland&amp;rsquo;s historically anti-Keynesian context&lt;sup id=&#34;fnref:12&#34;&gt;&lt;a href=&#34;#fn:12&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;12&lt;/a&gt;&lt;/sup&gt;, with relatively low public spending, the introduction of the debt brake in 2003 has further constrained the government’s ability to provide financial support to households. Although the debt brake can be temporarily relaxed in response to economic conditions, Swiss law generally requires that any increase in public expenditure be matched by a corresponding rise in revenue. This mechanism typically limits public spending or, at best, keeps it fixed in real terms&lt;sup id=&#34;fnref:13&#34;&gt;&lt;a href=&#34;#fn:13&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;13&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Figure 4&lt;/strong&gt; illustrates the variations in public spending on households&lt;sup id=&#34;fnref:14&#34;&gt;&lt;a href=&#34;#fn:14&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;14&lt;/a&gt;&lt;/sup&gt; in Switzerland and the Eurozone from 1999 to 2022, expressed as a percentage of GDP. One critical point is that, over this period, Swiss public spending on households averaged 15% of GDP, compared to 28% in the Eurozone. Notably, Switzerland has seen a reduction in public spending relative to 1999, except during the two years of the COVID-19 pandemic, in contrast to the trend in the Eurozone. This shows that, while public expenditures is on the rise, it is targeting other areas.&lt;/p&gt;
+&lt;iframe src=&#34;http://localhost:4321/HTML/Fig4.html&#34; width=&#34;100%&#34; height=&#34;500&#34; frameborder=&#34;0&#34;&gt;
+&lt;/iframe&gt;
+&lt;p&gt;This comparison therefore highlights Switzerland&amp;rsquo;s restricted fiscal environment, where limited public spending, combined with the transfer of the tax burden to households and the failure to increase public expenditures on households, has probably exacerbated the problem of household indebtedness.&lt;/p&gt;
+&lt;h2 id=&#34;opening-ideology-overproduction-crisis-banking-power-and-financial-instability&#34;&gt;Opening: Ideology, overproduction crisis, banking power and financial instability&lt;/h2&gt;
+&lt;p&gt;To sum up, we have demonstrated that the high indebtedness of Swiss households is largely due to limited purchasing power and restrictive public finances. This reveals how socially underdeveloped the Swiss economy is. Employers and corporations wield such significant power that they are able to limit real wages growth, leaving households to turn to debt as a compensatory measure.&lt;/p&gt;
+&lt;p&gt;The role of public finances, however, is more complex. The stringent control over public debt and, more broadly, the obsession with “balancing” public finances seem detached from economic realities. As we have previously noted, Switzerland has never experienced large-scale public spending&lt;sup id=&#34;fnref:15&#34;&gt;&lt;a href=&#34;#fn:15&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;15&lt;/a&gt;&lt;/sup&gt;, which makes the alarmist discourse around its public finances appear exaggerated. The &lt;strong&gt;Figure 5&lt;/strong&gt; below shows Swiss public debt as a proportion of GDP from 1986 to 2022, compared to France, Austria, Germany, the United Kingdom, and the United States. This demonstrates Switzerland’s relatively modest debt levels in an international context. Combined with a favorable economic environment, some economists have even suggested that Switzerland has room to increase deficits, arguing that austerity measures are unnecessary&lt;sup id=&#34;fnref:16&#34;&gt;&lt;a href=&#34;#fn:16&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;16&lt;/a&gt;&lt;/sup&gt;. Others have pointed out that historically, Swiss public debt has had no adverse effects on growth or interest rates&lt;sup id=&#34;fnref:17&#34;&gt;&lt;a href=&#34;#fn:17&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;17&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;iframe src=&#34;http://localhost:4321/HTML/Fig5.html&#34; width=&#34;100%&#34; height=&#34;500&#34; frameborder=&#34;0&#34;&gt;
+&lt;/iframe&gt;
+&lt;p&gt;This evidence supports the argument that public debt, and public finance policy more broadly, primarily serve a political purpose&lt;sup id=&#34;fnref:18&#34;&gt;&lt;a href=&#34;#fn:18&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;18&lt;/a&gt;&lt;/sup&gt;. The aim is to curtail social spending, despite the lack of empirical support for such a policy&lt;sup id=&#34;fnref:19&#34;&gt;&lt;a href=&#34;#fn:19&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;19&lt;/a&gt;&lt;/sup&gt;. The justification is purely ideological. As economist Olivier Blanchard noted, «it is clear that we can probably tolerate debt levels above 100% in many countries, and it’s not the end of the world»&lt;sup id=&#34;fnref:20&#34;&gt;&lt;a href=&#34;#fn:20&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;20&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;However, this ideological stance has tangible consequences. Combined with declining demand due to limited purchasing power, the dominance of corporations forces Swiss households into greater debt. This debt serves a critical economic function: it compensates for overproduction. Supply and demand do not naturally balance out; rather, they are sustained by a banking system that capitalizes on low purchasing power and lack of public spending, often at the expense of household financial stability. In other words, the entire Swiss production system now relies heavily on household credit, which grants the banking sector a central role from which it derives significant profits. Banks, in effect, have assumed the role that the state could have played, which in turn increases the risk of a financial crisis in Switzerland.&lt;/p&gt;
+&lt;p&gt;There are, however, solutions to this problem. We have shown that increasing wages reduces household indebtedness and possibly reduces the likelihood of a financial crisis in Switzerland. Additionally, increasing public spending targeted at household support, and not financed by households themselves, can also help improve household financial health. To achieve these, we need to overcome the Swiss ideology, rooted in a caricatured version of laissez-faire economics, which selectively applies this doctrine depending on who benefits.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.blick.ch/fr/news/economie/en-comparaison-aux-autres-pays-du-monde-pourquoi-les-suisses-sont-ils-aussi-endettes-id18842843.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.blick.ch/fr/news/economie/en-comparaison-aux-autres-pays-du-monde-pourquoi-les-suisses-sont-ils-aussi-endettes-id18842843.html&lt;/a&gt;.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;While financialization can be defined in various ways, this article focuses on the «increasing dominance of financial actors, markets, practices, measurements, and narratives» at the household level. Aalbers, M. B. (2016). The financialization of housing: A political economy approach. Routledge, p.2.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
+&lt;p&gt;Bobek, A., Mikuš, M., &amp;amp; Sokol, M. (2023). Making sense of the financialization of households: state of the art and beyond. Socio-Economic Review. Online First: 1-26.&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34;&gt;
+&lt;p&gt;Morvant-Roux, S., Bertoli, M. A., Clerc, S., Rees, M., &amp;amp; Saiag, H. (2023). Survival debts versus accumulation debts: Financialization and social inequalities in Switzerland. Revue Francaise de Socio-Economie, 30(1), 219-244.&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:5&#34;&gt;
+&lt;p&gt;In this approach, households are rational and seek to maintain their consumption over time (permanent income hypothesis and life cycle consumption). If the future budget constraint has an effect on their consumption, then households will go into debt and smooth out their consumption. Debt is therefore not negative and results solely from households&amp;rsquo; future expectations. For a review, see: Karacimen, E. (2013). Dynamics behind the Rise in Household Debt in Advanced Capitalist Countries An Overview. Financialisation, Economy, Society &amp;amp; Sustainable Development (FESSUD) Project Working papers.&amp;#160;&lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:6&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.imf.org/en/Blogs/Articles/2017/10/03/rising-household-debt-what-it-means-for-growth-and-stability&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.imf.org/en/Blogs/Articles/2017/10/03/rising-household-debt-what-it-means-for-growth-and-stability&lt;/a&gt;.&amp;#160;&lt;a href=&#34;#fnref:6&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:7&#34;&gt;
+&lt;p&gt;ibidem.&amp;#160;&lt;a href=&#34;#fnref:7&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:8&#34;&gt;
+&lt;p&gt;Karaçimen, E. (2014). Financialization in Turkey: The case of consumer debt. Journal of Balkan and Near Eastern Studies, 16(2), 161-180; Dumitrescu, B. A., Enciu, A., Hândoreanu, C. A., Obreja, C., &amp;amp; Blaga, F. (2022). Macroeconomic determinants of household debt in OECD countries. Sustainability, 14(7), 3977; Romão, A., &amp;amp; Barradas, R. (2024). Macroeconomic determinants of households&amp;rsquo; indebtedness in Portugal: What really matters in the era of financialisation?. International Journal of Finance &amp;amp; Economics, 29(1), 383-401.&amp;#160;&lt;a href=&#34;#fnref:8&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:9&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.bfs.admin.ch/bfs/fr/home/statistiques/construction-logement/logements/logements-locataires.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.bfs.admin.ch/bfs/fr/home/statistiques/construction-logement/logements/logements-locataires.html&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:9&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:10&#34;&gt;
+&lt;p&gt;Guex, S. (2003). La politique des caisses vides: État, finances publiques et mondialisation. Actes de la recherche en sciences sociales, 146(1), 51-62, p.58.&amp;#160;&lt;a href=&#34;#fnref:10&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:11&#34;&gt;
+&lt;p&gt;We have compiled the following for capital (in % GDP): stamp and issue duties; customs duties; withholding tax; direct federal tax on legal entities; sales tax and patents and concessions. And for households (in % GDP): Duty on premium receipts and other receipts; direct federal personal income tax; tax on beer, spirits and mineral oils; traffic tax; tax on exemption from compulsory service; value-added tax and co2 tax.&amp;#160;&lt;a href=&#34;#fnref:11&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:12&#34;&gt;
+&lt;p&gt;Guex, S. (2012). L’État fédéral et les crises économiques du début du xxe siècle à nos jours: la Suisse, un bastion anti-keynésien. Société suisse d’histoire économique et sociale, 27, 160.&amp;#160;&lt;a href=&#34;#fnref:12&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:13&#34;&gt;
+&lt;p&gt;For a review, see Desgraz, R. (2023). The less, the better? The Political Economy of the Swiss Debt Brake. Archive Ouverte of the University of Geneva.&amp;#160;&lt;a href=&#34;#fnref:13&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:14&#34;&gt;
+&lt;p&gt;We have compiled the following COFOG (Classification of  of the functions of government) together (in % GDP) : Health; Social protection ; Housing and community amenities ; Recreation, culture and religion.&amp;#160;&lt;a href=&#34;#fnref:14&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:15&#34;&gt;
+&lt;p&gt;Guex, S. (2012).&amp;#160;&lt;a href=&#34;#fnref:15&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:16&#34;&gt;
+&lt;p&gt;Tille, C. (2019). Le&amp;quot; fardeau&amp;quot; de la dette publique suisse: Eclairages des recherches scientifiques et pistes pour le futur. Graduate Institute of International and Development Studies Working Paper.&amp;#160;&lt;a href=&#34;#fnref:16&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:17&#34;&gt;
+&lt;p&gt;Guex, G., &amp;amp; Guex, S. (2018). Debt, economic growth, and interest rates: an empirical study of the Swiss case, presenting a new long-term dataset: 1894–2014. Swiss Journal of Economics and Statistics, 154, 1-13.&amp;#160;&lt;a href=&#34;#fnref:17&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:18&#34;&gt;
+&lt;p&gt;Chesnais, F. (2011). Les dettes illégitimes. Quand les banques font main basse sur les politiques publiques. Raisons d&amp;rsquo;agir.&amp;#160;&lt;a href=&#34;#fnref:18&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:19&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://dievolkswirtschaft.ch/fr/2019/04/schaltegger-salvi-05-2019fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://dievolkswirtschaft.ch/fr/2019/04/schaltegger-salvi-05-2019fr/&lt;/a&gt;. 88% of public finance forecasts since 2003 have turned out to be more pessimistic than reality.&amp;#160;&lt;a href=&#34;#fnref:19&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:20&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nytimes.com/2020/08/21/business/economy/national-debt-coronavirus-stimulus.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.nytimes.com/2020/08/21/business/economy/national-debt-coronavirus-stimulus.html&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:20&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Who pollutes in Switzerland, consumers or producers?</title>
       <link>http://localhost:4321/post/2024-08-13-who-pollutes-in-switzerland-consumers-or-producers/</link>
       <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
