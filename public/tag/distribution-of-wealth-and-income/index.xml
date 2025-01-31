@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Distribution of Wealth and Income | ShadowSwiss Economics</title>
+    <link>http://localhost:4321/tag/distribution-of-wealth-and-income/</link>
+      <atom:link href="http://localhost:4321/tag/distribution-of-wealth-and-income/index.xml" rel="self" type="application/rss+xml" />
+    <description>Distribution of Wealth and Income</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 31 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:4321/media/icon_huc57125e40b50a7b55b541ff0c8e05236_68374_512x512_fill_lanczos_center_3.png</url>
+      <title>Distribution of Wealth and Income</title>
+      <link>http://localhost:4321/tag/distribution-of-wealth-and-income/</link>
+    </image>
+    
+    <item>
+      <title>Prosperity for all or prosperity for a few ?</title>
+      <link>http://localhost:4321/post/2025-01-31-inequality/</link>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/post/2025-01-31-inequality/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Switzerland is often hailed as a beacon of prosperity, but a paradox persists: How can a country with such high levels of wealth&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; also see significant portions of its population at risk of poverty ? This question lies at the heart of the debate over the true nature of prosperity. The mainstream &amp;ldquo;economy first&amp;rdquo; approach, while emphasizing economic growth, often overlooks the deeper complexities of wealth distribution and social equality.
+Prosperity, as we argue in several of our previous articles&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;, is a multifaceted concept that extends beyond economic measures to include social and political dimensions. Yet, &lt;em&gt;EconomieSuisse&lt;/em&gt; continues to assert that «both for the national economy as a whole and for each individual, prosperity has increased in Switzerland thanks to solid economic growth »&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;. From this widely accepted perspective, Switzerland emerges as a land of great wealth, benefiting not only a few but, in theory, everyone. It paints a picture of a “fountain of wealth” where opportunities are abundant for all to partake.&lt;/p&gt;
+&lt;p&gt;While this narrative may flatter the Swiss ego, it doesn’t hold up under closer scrutiny. When combining poverty rates and at-risk-of-poverty statistics, a different picture of wealth distribution emerges. According to data from the Federal Statistical Office (FSO) presented in &lt;strong&gt;Figure 1&lt;/strong&gt; below, poverty, including those at risk of it, rose by nearly 24% between 2013 and 2022. By 2022, around 2 million people were affected by poverty in its broadest sense in the “wealthiest and happiest country” on earth&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;iframe src=&#34;http://localhost:4321/HTML/Fig1_.html&#34; width=&#34;100%&#34; height=&#34;500&#34; frameborder=&#34;0&#34;&gt;
+&lt;/iframe&gt;
+&lt;p&gt;If, as Figure 1 demonstrates, poverty indicators challenge the narrative of widespread prosperity, what insights can other measures of economic inequality offer? This article delves into recent trends in wealth inequality, income disparities, and rising exploitation rates in Switzerland. It argues that wealth is intrinsically linked to distributional dynamics, raising critical questions about the fairness of its allocation. Furthermore, the article asserts that relying solely on a single measure of economic inequality overlooks the lived realities of society’s most vulnerable members. Instead, we advocate for a multidimensional approach to deliver a more comprehensive and accurate assessment of the country’s socio-economic challenges.&lt;/p&gt;
+&lt;h2 id=&#34;the-misleading-stability-in-income-inequality&#34;&gt;The misleading stability in income inequality&lt;/h2&gt;
+&lt;p&gt;Income inequality in Switzerland has traditionally been seen as relatively stable in academic literature&lt;sup id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;. However, recent studies suggest otherwise, pointing to a gradual but significant increase&lt;sup id=&#34;fnref:6&#34;&gt;&lt;a href=&#34;#fn:6&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;6&lt;/a&gt;&lt;/sup&gt;. This shift, largely driven by the use of original tax data, aligns with recent economic research, which shows that income inequalities have widened over the past few decades, although not uniformly or with the same intensity&lt;sup id=&#34;fnref:7&#34;&gt;&lt;a href=&#34;#fn:7&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;7&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;To illustrate this, &lt;strong&gt;Figure 2&lt;/strong&gt; shows the share of total pre-tax income held by the top 10% of earners in Switzerland, Germany, France, Austria, and Great Britain. According to data from the World Inequality Database, Switzerland’s income inequality between the richest 10% and the remaining 90% has remained relatively stable at around 31% between 1980 and 2023. In contrast, income disparities in other major European countries have generally increased.&lt;/p&gt;
+&lt;iframe src=&#34;http://localhost:4321/HTML/Fig2_.html&#34; width=&#34;100%&#34; height=&#34;500&#34; frameborder=&#34;0&#34;&gt;
+&lt;/iframe&gt;
+&lt;p&gt;However, Switzerland’s apparent stability should not be mistaken for success. In fact, the data reveal that, aside from Austria, Switzerland had a higher initial level of inequality at the beginning of the study period. When examining average inequality across the entire period, Switzerland’s income distribution closely mirrors that of its European neighbors. For example, the top 10% of earners in Switzerland hold 31% of the total pre-tax income, compared to 32% in France and 33% in Germany. In this respect, there is no distinct &amp;ldquo;Sonderfall&amp;rdquo; for Switzerland.&lt;/p&gt;
+&lt;h2 id=&#34;rising-exploitation-when-productivity-outpaces-wages&#34;&gt;Rising exploitation: When productivity outpaces wages&lt;/h2&gt;
+&lt;p&gt;While a 31% share of total income does not imply an equal distribution, the analysis presented so far is not without its criticisms. One key issue lies in the reliance on macroeconomic data, based on national accounts concepts, which can obscure a microeconomics understanding of inequality. From a macroeconomic perspective, focusing on income is certainly informative, but it depoliticizes the issue. In Switzerland, it is wages, not income in its broadest sense, that are subject to negotiation and conflict. Highlighting income inequality may divert attention from the more pressing and actionable discussions surrounding wage disparities.&lt;/p&gt;
+&lt;p&gt;To complement the income inequality data, &lt;strong&gt;Figure 3&lt;/strong&gt; illustrates labor productivity and real wages in Switzerland between 1995 and 2023. Derived from FSO data, these figures show that labor productivity has increased, on average, 2.5 times faster than inflation-adjusted wage growth. In other words, while Swiss workers are increasingly productive, the acceleration in their wages has slowed in comparison to inflation.&lt;/p&gt;
+&lt;iframe src=&#34;http://localhost:4321/HTML/Fig3_.html&#34; width=&#34;100%&#34; height=&#34;500&#34; frameborder=&#34;0&#34;&gt;
+&lt;/iframe&gt;
+&lt;p&gt;In Marxist terms, this dynamic acts as a proxy for the rate of exploitation, i.e the gap between what employees generate and what they actually earn&lt;sup id=&#34;fnref:8&#34;&gt;&lt;a href=&#34;#fn:8&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;8&lt;/a&gt;&lt;/sup&gt;. *&lt;strong&gt;Figure 4&lt;/strong&gt; highlights this gap, particularly during the pandemic period, when the disconnect between productivity and wages widened significantly. This suggests that, during economic crises, the rate of exploitation intensifies, exacerbating the inequality that already exists between the workers&amp;rsquo; productivity and their compensation.&lt;/p&gt;
+&lt;iframe src=&#34;http://localhost:4321/HTML/Fig4_.html&#34; width=&#34;100%&#34; height=&#34;500&#34; frameborder=&#34;0&#34;&gt;
+&lt;/iframe&gt;
+&lt;h2 id=&#34;wealth-concentration-switzerland-as-europes-top-unequal-country&#34;&gt;Wealth concentration: Switzerland as Europe&amp;rsquo;s top unequal country&lt;/h2&gt;
+&lt;p&gt;Another crucial aspect of economic inequality is wealth distribution. &lt;strong&gt;Figure 5&lt;/strong&gt; shows the share of total net wealth held by the top 10% in Switzerland, Germany, France, Austria, and Great Britain. Unlike income inequality, Switzerland has experienced a striking 9% increase in wealth concentration between 1995 and 2022. Notably, almost 63% of Switzerland’s wealth is now held by just 10% of the population, making the country the most unequal among major European nations in terms of wealth distribution over the past decade. This reality seems impossible to reconcile with the assertions of &lt;em&gt;EconomieSuisse&lt;/em&gt;.&lt;/p&gt;
+&lt;iframe src=&#34;http://localhost:4321/HTML/Fig5_.html&#34; width=&#34;100%&#34; height=&#34;500&#34; frameborder=&#34;0&#34;&gt;
+&lt;/iframe&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;In conclusion, while Switzerland is often perceived as a model of prosperity and economic equality, a closer examination of the data presents a more complex and troubling picture. The findings reveal rising inequalities across multiple dimensions, from labor exploitation to wealth concentration. While income inequality may appear stable at first glance, this apparent stability masks an already high level of disparity. Furthermore, the increasing divergence between labor productivity and inflation-adjusted wage growth underscores the growing exploitation of workers, a trend exacerbated during times of economic crisis, such as the pandemic. Finally, Switzerland has emerged as the most unequal of major European nations in terms of wealth distribution, with the top 10% holding an overwhelming share of the country’s wealth.&lt;/p&gt;
+&lt;p&gt;These observations underscore the importance of adopting a multidimensional approach to better understand socio-economic realities and promote fairer solutions. By moving beyond the conventional, mainstream perspective, we can spark political debates on wealth distribution, wage disparities, and exploitation. This will ultimately pave the way for more equitable policies and a more accurate picture of Switzerland’s economic issues.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;For a broad discussion of wealth in Switzerland, see our article : &lt;a href=&#34;https://shadowswisseconomics.com/post/2024-06-21-s-switzerland-truly-wealthy-well-being-and-prosperous/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://shadowswisseconomics.com/post/2024-06-21-s-switzerland-truly-wealthy-well-being-and-prosperous/&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;See: &lt;a href=&#34;https://shadowswisseconomics.com/post/2024-06-21-s-switzerland-truly-wealthy-well-being-and-prosperous/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://shadowswisseconomics.com/post/2024-06-21-s-switzerland-truly-wealthy-well-being-and-prosperous/&lt;/a&gt; or &lt;a href=&#34;https://shadowswisseconomics.com/post/financialization/untitledrmd/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://shadowswisseconomics.com/post/financialization/untitledrmd/&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.economiesuisse.ch/fr/articles/la-croissance-de-la-suisse-est-elle-avant-tout-quantitative&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.economiesuisse.ch/fr/articles/la-croissance-de-la-suisse-est-elle-avant-tout-quantitative&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34;&gt;
+&lt;p&gt;For a caricatured view of Switzerland, see Garçon, F. (2015). La Suisse, pays le plus heureux du monde.  Tallandier.&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:5&#34;&gt;
+&lt;p&gt;Dell, F., Piketty, T., &amp;amp; Saez, E. (2007). Income and wealth concentration in Switzerland over the twentieth century. Top incomes over the twentieth century: A contrast between continental European and English-speaking countries, 472-500; Grabka, M., &amp;amp; Kuhn, U. (2012). The evolution of income inequality in Germany and Switzerland since the turn of the millennium. SOEPpapers, 464.&amp;#160;&lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:6&#34;&gt;
+&lt;p&gt;Foellmi, R., &amp;amp; Martínez, I. Z. (2017). Volatile top income shares in Switzerland ? Reassessing the evolution between 1981 and 2010. Review of Economics and Statistics, 99(5), 793-809; Foellmi, R., &amp;amp; Martínez, I. Z. (2018). Inequality in Switzerland: A Haven of Stability ?. In CESifo Forum (Vol. 19, No. 2, pp. 19-25). München: ifo Institut-Leibniz-Institut für Wirtschaftsforschung an der Universität München.&amp;#160;&lt;a href=&#34;#fnref:6&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:7&#34;&gt;
+&lt;p&gt;For a non-exhaustive review, see Piketty, T. (2013). Capital au XXIe Siecle. Editions du Seuil and Piketty, T. (2019). Capital et idéologie. Editions du Seuil.&amp;#160;&lt;a href=&#34;#fnref:7&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:8&#34;&gt;
+&lt;p&gt;According to Marx, the source of profit in the capitalist mode of production comes from the surplus value produced by the worker. It is the ratio of surplus value to variable capital (wages) that determines the rate of exploitation. One way of measuring this rate is to relate labor productivity to real wages. See : &lt;a href=&#34;https://wikirouge.net/Taux_de_survaleur&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://wikirouge.net/Taux_de_survaleur&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:8&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

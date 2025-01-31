@@ -2,40 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:4321/tag/econometrics/</loc>
-    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/tag/distribution-of-wealth-and-income/</loc>
+    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/tag/financialization/</loc>
-    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/tag/inequality/</loc>
+    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/tag/households/</loc>
-    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/tag/marxism/</loc>
+    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/post/2024-10-10-household/</loc>
-    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/tag/indebtness/</loc>
-    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/tag/political-economy/</loc>
+    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:4321/post/</loc>
-    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:4321/tag/public-finances/</loc>
-    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+    <loc>http://localhost:4321/tag/poverty/</loc>
+    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/tag/productivity/</loc>
+    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/post/2025-01-31-inequality/</loc>
+    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:4321/tag/switzerland/</loc>
-    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:4321/tags/</loc>
-    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/tag/wages/</loc>
+    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/tag/econometrics/</loc>
+    <lastmod>2024-10-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/tag/financialization/</loc>
+    <lastmod>2024-10-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/tag/households/</loc>
+    <lastmod>2024-10-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/post/2024-10-10-household/</loc>
+    <lastmod>2024-10-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/tag/indebtness/</loc>
+    <lastmod>2024-10-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:4321/tag/public-finances/</loc>
+    <lastmod>2024-10-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:4321/tag/climate-change/</loc>
@@ -47,14 +79,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:4321/tag/ecology/</loc>
-    <lastmod>2024-08-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/tag/marxism/</loc>
-    <lastmod>2024-08-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:4321/tag/political-economy/</loc>
     <lastmod>2024-08-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
